@@ -1,0 +1,4 @@
+# Customize the prefix of the plugin
+prefix: '&6[&bCata&aMines&6] &7'
+announceUpdate: true
+language: EN

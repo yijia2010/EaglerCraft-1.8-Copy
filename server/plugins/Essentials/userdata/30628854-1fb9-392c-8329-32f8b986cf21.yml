@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675440191015
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675695770597
+  login: 1675695527229
+  kits:
+    tools: 1675695169361
+money: '0'
+last-account-name: N3zuk0
+lastlocation:
+  world: 4daa9b69-4fb3-4eb5-88fc-6fecaa89210a
+  world-name: world
+  x: 49.501014727122964
+  y: 68.0
+  z: 255.87309576177768
+  yaw: 180.1501007080078
+  pitch: 24.449995040893555
+logoutlocation:
+  world: 6b5c947d-ed91-49f4-8720-483983d3eede
+  world-name: Speedway
+  x: -0.9920428753209982
+  y: 98.0
+  z: 0.8826720630120546
+  yaw: -150.24374389648438
+  pitch: 20.396160125732422

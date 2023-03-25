@@ -1,0 +1,46 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1676481288810
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1676498995310
+  login: 1676498810043
+  kits:
+    tools: 1676481178814
+    notch: 1674511377018
+    dtools: 1675439948424
+money: '0'
+last-account-name: ProNoxShadow
+lastlocation:
+  world: 6b5c947d-ed91-49f4-8720-483983d3eede
+  world-name: Speedway
+  x: -2.0082321042867974
+  y: 98.0
+  z: 4.058933817992518
+  yaw: 40.95003890991211
+  pitch: 16.349992752075195
+logoutlocation:
+  world: 6b5c947d-ed91-49f4-8720-483983d3eede
+  world-name: Speedway
+  x: -0.30000001192092934
+  y: 98.0
+  z: 4.176952054641143
+  yaw: -162.90000915527344
+  pitch: 42.300010681152344
+unlimited:
+- DIRT
+- WOOD
+- WOOL
